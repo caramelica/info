@@ -20,7 +20,6 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
-  - _docs
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -82,6 +81,12 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/ecaramelica/"
 
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   # _posts
   - scope:
@@ -112,7 +117,7 @@ defaults:
       share: false
       comments: false
       sidebar:
-        nav: "docs"    
+        nav: "docs"
 
 category_archive:
   type: liquid

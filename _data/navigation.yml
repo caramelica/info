@@ -1,6 +1,6 @@
 main:
   - title: "Леденцы"
-      url: /docs/lollipop/
+    url: /docs/lollipop/
   - title: "О CARAMELICA"
     url: /about/
 
