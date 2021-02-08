@@ -44,7 +44,7 @@ plugins:
 
 author:
   name   : "ИП Бакликова Оксана Олеговна"
-  avatar : "/assets/images/bio-photo_200_200.jpg"
+  avatar : "/assets/images/bio-photo_200_200.png"
   bio    : "Карамель приготовлена на основе натуральных ингредиентов, без добавления химических  красителей, ароматизаторов и консервантов."
   links:
     - label: "Email"
