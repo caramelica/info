@@ -48,7 +48,7 @@ author:
   bio    : "Карамель приготовлена на основе натуральных ингредиентов, без добавления химических  красителей, ароматизаторов и консервантов."
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-envelope-square"
       url: "mailto:mail@caramelica.info"
     - label: "WWW"
       icon: "fas fa-fw fa-link"
@@ -66,7 +66,7 @@ author:
 footer:
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-envelope-square"
       url: "mailto:mail@caramelica.info"
     - label: "WWW"
       icon: "fas fa-fw fa-link"
