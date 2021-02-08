@@ -1,11 +1,12 @@
 main:
   - title: "Леденцы"
-      url: /lollipop/
+      url: /docs/lollipop/
+  - title: "О CARAMELICA"
+    url: /about/
+
 #  - title: "Posts"
 #    url: /posts/
 #  - title: "Categories"
 #    url: /categories/
 #  - title: "Tags"
 #    url: /tags/
-  - title: "О CARAMELICA"
-    url: /about/
